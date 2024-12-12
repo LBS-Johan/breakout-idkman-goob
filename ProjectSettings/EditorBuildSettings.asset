@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/idkman goob game.unity
+    guid: 4b2101de47f5e8b4589cadff15984464
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: 5bf88ccbb44f0c2468c3d0a82c77340d
+  - enabled: 1
+    path: Assets/end.unity
+    guid: f34050414649cb444bdb70242e04c367
+  - enabled: 1
+    path: Assets/win.unity
+    guid: 6ba92a5a342f1b24d876db2a696e0c97
   m_configObjects: {}
