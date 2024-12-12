@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - NoDestroy
+  - below
+  - platform
   layers:
   - Default
   - TransparentFX
